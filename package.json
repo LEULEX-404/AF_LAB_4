@@ -1,0 +1,19 @@
+{
+  "name": "af_lab_4",
+  "version": "1.0.0",
+  "description": "AF",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LEULEX-404/AF_LAB_4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LEULEX-404/AF_LAB_4/issues"
+  },
+  "homepage": "https://github.com/LEULEX-404/AF_LAB_4#readme"
+}
